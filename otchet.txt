@@ -1,0 +1,70 @@
+Task 1
+Enter the base b1: 6
+Enter the base b2: 9
+Enter the heigt h: 5
+Square = 37.5
+Task 2
+Enter r circles: 10
+Length = 62.8
+Square = 314
+Task 3
+Enter k1 of triangle: 9
+Enter k2 of triangle: 8
+Square = 8.5
+Hypotenuse = 12.0416
+Task 4
+Enter n: 4569
+sum = 24
+Task 7
+a*x*x+b*x+c=0.
+Enter a: 5
+Enter b: 2
+Enter c: -6
+x1=0.913553
+x2=-1.31355
+Task 8
+Enter a of triangle: 9
+Enter b of triangle: 8
+Enter c of triangle: 5
+m1=6.08276
+m2=4.92443
+m3=8.13941
+m4=3.75
+m5=6
+m6=6.75
+Task 9
+Enter sec: 9654
+Minuts=160
+Hour=2
+Task 10
+Enter a of triangle: 96
+Enter b of triangle: 96
+Enter c of triangle: 25
+Isosceles triangle
+Task 11
+Enter the amount of your purchase: 8569
+Purchase amount including discount: 7712
+Task 12
+Enter your heigt: 156
+Enter your weight: 50
+You should get fat!
+Task 13
+First random number:6
+Second random number:5
+Enter product of numbers: 30
+You are the best!
+Task 15
+Enter month number: 9
+Month: September
+Season: Autumn
+Task 14
+Enter number of day: 6
+Enter time in minutes:96
+Enter cost per minute:2
+Cost with discount:153.6
+Task 16
+Enter natural six-digit number: 125314
+You are lucky men!
+Task 18
+Enter natural four-digit number: 4554
+It is palindrome!
